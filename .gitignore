@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local database and exports (may contain personal information)
+contact_book.db
+contact_book.db-journal
+contacts.csv
+*.sqlite
+*.sqlite3
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+contact_book.db
